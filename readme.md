@@ -1,0 +1,1 @@
+Substituir os valores pré definidos do código em "área, altura, largura" para obter os valores nulos
